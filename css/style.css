@@ -1430,7 +1430,7 @@ ul.dropdown-menu li {
   padding-top: 20px;
   line-height: 28px;}
 .about .block img {
-  width: 100%;}
+  width: auto;}
 .about .about-img {
   overflow: hidden;}
 .about .about-img:hover img {
