@@ -83,9 +83,9 @@ $(document).ready(function () {
 	var countDownEl = $('.count-down');
 	if (countDownEl) {
 		$('.count-down').syotimer({
-			year: 2021,
-			month: 5,
-			day: 9,
+			year: 2023,
+			month: 9,
+			day: 22,
 			hour: 20,
 			minute: 30
 		});
